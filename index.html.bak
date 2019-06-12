@@ -58,10 +58,14 @@ and is wrapped around the whole page content, except for the footer in this exam
         </div>
 
         <div class="w3-justify">
-          <img src="https://scontent.fbkk14-1.fna.fbcdn.net/v/t1.0-9/19429825_1367263000036300_1331196862295489103_n.jpg?_nc_cat=100&_nc_oc=AQmSUAi-nR65juxGZuFBm-5Ux11UsVmgV2Z2RDi9B_h2-_Hq3dxxYEMRvyX0Nnl8Yhc&_nc_ht=scontent.fbkk14-1.fna&oh=4f3f9acdf25f6473b9829b035af9563d&oe=5D934E62" alt="Girl Hat" style="width:100%" class="w3-padding-16">
-          <p><strong>Profile!</strong> I am crazy about hats these days. Some text about this blog entry. Fashion fashion and mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor
-            magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
-          <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+          <img src="https://scontent.fbkk14-1.fna.fbcdn.net/v/t1.0-9/19429825_1367263000036300_1331196862295489103_n.jpg?_nc_cat=100&_nc_oc=AQmSUAi-nR65juxGZuFBm-5Ux11UsVmgV2Z2RDi9B_h2-_Hq3dxxYEMRvyX0Nnl8Yhc&_nc_ht=scontent.fbkk14-1.fna&oh=4f3f9acdf25f6473b9829b035af9563d&oe=5D934E62" alt="Girl Hat" width="480" height="640"  class="w3-padding-16">
+          <p><strong>Profile!</strong> Name is : Thanabut</p>
+          <p>Lastname is : Thasadatumnoichok</p>
+		  <p>Nickname is : Four</p>
+		  <p>Birthday : 8 Mar 1998</p>
+		  <p>Type : Men</p>
+		  <p>Address : 137 Moo.6 district.Phonkho District.City Hope.Sisaket Postcode.33000</p>
+		  <p>Tel. : 062-1198195</p>
           <p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
           <p class="w3-right"><button class="w3-button w3-black" onclick="myFunction('demo1')" id="myBtn"><b>Replies  </b> <span class="w3-tag w3-white">1</span></button></p>
           <p class="w3-clear"></p>
